@@ -36,12 +36,15 @@ app = FastAPI(
 # CORS: allow the Streamlit frontend (and any local client) to talk to the API.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=False,
+    allow_origins=[
+        "https://hr-compliance-intelligence.vercel.app",
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 @app.get("/", tags=["root"])
 def root() -> dict:

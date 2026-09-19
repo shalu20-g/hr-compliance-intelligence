@@ -85,6 +85,12 @@ export default function Login() {
           </div>
         )}
         {mode === "login" ? (
+          <>
+          <div className="demo-credentials">
+  <strong>Demo Employee</strong>
+  <div>Email: demo@hrbot.com</div>
+  <div>Password: Demo@12345</div>
+</div>
           <form onSubmit={submitLogin} className="login-form">
             <label>
               Email
@@ -112,6 +118,7 @@ export default function Login() {
               {authLoading ? "Signing in…" : "Sign in"}
             </button>
           </form>
+          </>
         ) : (
           <form onSubmit={submitRegister} className="login-form">
             <label>

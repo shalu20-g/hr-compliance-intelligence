@@ -1,0 +1,3 @@
+# This directory stores the persistent ChromaDB index.
+# It is populated by `python scripts/ingest.py` and must not be committed.
+# The .gitkeep file keeps the directory around in the repository.

@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets - never commit
+.env
+.env.*
+!.env.example
+
+# Vector DB + indexed data (regenerate with `python scripts/ingest.py`)
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+data/*.db
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+
+# React frontend build artifacts / dependencies
+node_modules/
+frontend-react/dist/

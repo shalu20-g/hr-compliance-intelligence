@@ -1,0 +1,35 @@
+Remote Work Policy
+
+Effective Date: January 1, 2026
+
+1. Overview
+
+Acme Corp supports a hybrid working model that combines time in the office with remote work.
+
+2. Eligibility
+
+Employees in roles that do not require continuous physical presence on site are eligible for hybrid work. The employee's manager makes the final decision on eligibility based on role requirements.
+
+3. Hybrid Schedule
+
+Employees are expected to work from the office at least 3 days per week and may work remotely for up to 2 days per week. Employees must coordinate their office days with their team to ensure adequate coverage.
+
+4. Remote Work Agreement
+
+Employees who regularly work remotely must sign a Remote Work Agreement with their manager. The agreement covers working hours, communication expectations, data security obligations and equipment use.
+
+5. Equipment and Stipend
+
+Acme Corp provides a company laptop for employees with an approved remote work arrangement. Remote employees receive a one-time home office setup stipend of $500 for furniture and peripherals.
+
+6. Data Security
+
+Remote work must comply with the Confidentiality Policy. Employees must use the company VPN when accessing corporate systems and must not work on company data in public locations without a privacy screen.
+
+7. Availability
+
+During agreed working hours, remote employees must be reachable on the company messaging system and must respond within two business hours.
+
+8. Health and Safety
+
+Employees are responsible for ensuring their home workstation meets basic ergonomic and safety standards. Acme Corp may schedule an ergonomic assessment on request.

@@ -1,0 +1,35 @@
+Confidentiality Policy
+
+Effective Date: January 1, 2026
+
+1. Purpose
+
+Acme Corp employees frequently handle confidential and proprietary information. This policy describes how that information must be protected.
+
+2. Types of Confidential Information
+
+Confidential information includes trade secrets, source code, product roadmaps, financial data, customer and partner information, employee personal data, salary information and any information marked as confidential.
+
+3. Data Classification
+
+Information is classified as public, internal, confidential or restricted. Restricted information is the most sensitive and includes salary data, legal documents and personal data of employees and customers.
+
+4. Handling and Storage
+
+Confidential information must be stored only on approved corporate systems, which are protected by managed access controls. Personal devices must not be used to store restricted information.
+
+5. Passwords and Access
+
+Employees must use strong passphrases, enable multi-factor authentication on all corporate accounts and never share their credentials with anyone.
+
+6. Sharing with Third Parties
+
+Confidential information may be shared with third parties only under a signed non-disclosure agreement and with prior approval from the Legal team.
+
+7. Remote Work
+
+When working remotely, employees must use the corporate VPN, lock their screens when away and follow the Remote Work Policy.
+
+8. Breach Reporting
+
+Any actual or suspected loss, theft or disclosure of confidential information must be reported to the Security team within 24 hours. Employees who mishandle confidential information are subject to disciplinary action, up to and including termination.

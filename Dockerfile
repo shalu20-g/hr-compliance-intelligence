@@ -27,4 +27,5 @@ EXPOSE 8000
 
 # Index the sample documents on startup (ignore failure so the API still
 # serves /health and /documents), then launch the API.
-CMD ["sh", "-c", "python scripts/ingest.py || echo '[warn] ingestion failed - starting API anyway'; exec uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+#MD ["sh", "-c", "python scripts/ingest.py || echo '[warn] ingestion failed - starting API anyway'; exec uvicorn app.main:app --host 0.0.0.0 --port 8000"]
+CMD ["sh", "-c", "python scripts/init_db.py && (python scripts/ingest.py || echo '[warn] ingestion failed - starting API anyway'); exec uvicorn app.main:app --host 0.0.0.0 --port 8000"]

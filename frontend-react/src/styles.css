@@ -156,6 +156,12 @@ body {
   display: block;
 }
 
+.status-card.success {
+  background: #eef8ee;
+  border: 1px solid #a9d8a9;
+  display: block;
+}
+
 .spinner {
   width: 18px;
   height: 18px;

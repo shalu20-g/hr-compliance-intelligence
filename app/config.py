@@ -32,7 +32,7 @@ class Settings(BaseSettings):
     # --- Google Gemini ---
     google_api_key: str | None = Field(default=None, repr=False)
     gemini_model: str = "gemini-2.0-flash"
-    embedding_model: str = "models/text-embedding-004"
+    embedding_model: str = "gemini-embedding-2"
     embeddings_provider: Literal["gemini", "dummy"] = "gemini"
     llm_provider: Literal["gemini", "dummy"] = "gemini"
 
